@@ -9,7 +9,7 @@ import java.util.List;
 public class Advent2022 {
 
 	public static void main(String[] args) throws IOException, ClassNotFoundException, NoSuchMethodException, InvocationTargetException, IllegalAccessException {
-		int day = 5;
+		int day = 6;
 
 		List<String> input = Files.readAllLines(Paths.get("src", "main", "resources", "day" + day + ".txt"));
 
